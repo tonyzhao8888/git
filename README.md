@@ -1,7 +1,7 @@
 git
 ===
 
-stud git data
+stud 
 studey git data
 TTTTTTTTT
 test
